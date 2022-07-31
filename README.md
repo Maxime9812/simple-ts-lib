@@ -1,1 +1,1 @@
-## The Result system from the Kotlin Programming Language for TypeScript
+## A simple template for create a npm ready package in Typescript
